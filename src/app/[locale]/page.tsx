@@ -19,34 +19,34 @@ export default function HomePage() {
   // Map service translation keys to icons
   const services = [
     {
-      key: 'annual',
+      key: 'urgent',
       icon: Heart,
       color: 'bg-red-50 text-red-600 border-red-100',
     },
     {
-      key: 'chronic',
+      key: 'thirdparty',
       icon: Activity,
-      color: 'bg-emerald-50 text-emerald-600 border-emerald-100',
-    },
-    {
-      key: 'pediatric',
-      icon: Baby,
-      color: 'bg-blue-50 text-blue-600 border-blue-100',
-    },
-    {
-      key: 'mental',
-      icon: Sparkles,
-      color: 'bg-purple-50 text-purple-600 border-purple-100',
-    },
-    {
-      key: 'vaccinations',
-      icon: Syringe,
       color: 'bg-amber-50 text-amber-600 border-amber-100',
     },
     {
-      key: 'preventive',
-      icon: ShieldCheck,
+      key: 'outofprovince',
+      icon: Baby,
       color: 'bg-sky-50 text-sky-600 border-sky-100',
+    },
+    {
+      key: 'followup',
+      icon: Sparkles,
+      color: 'bg-emerald-50 text-emerald-600 border-emerald-100',
+    },
+    {
+      key: 'preventive',
+      icon: Syringe,
+      color: 'bg-blue-50 text-blue-600 border-blue-100',
+    },
+    {
+      key: 'uninsured',
+      icon: ShieldCheck,
+      color: 'bg-purple-50 text-purple-600 border-purple-100',
     },
   ];
 
@@ -221,7 +221,7 @@ export default function HomePage() {
               <AnimatedSection direction="right" className="relative h-[480px] w-full rounded-2xl overflow-hidden shadow-premium group">
                 <Image
                   src="/dr-ata.png"
-                  alt="Dr. Ata — PrimeCare Family Medicine"
+                  alt="Dr. Ata — PrimeCare Family Medicine Physician"
                   fill
                   className="object-cover transition-transform duration-700 group-hover:scale-105"
                 />

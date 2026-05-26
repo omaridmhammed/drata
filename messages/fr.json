@@ -29,38 +29,38 @@
     },
     "Services": {
       "title": "Services de soins primaires complets",
-      "subtitle": "Des solutions de santé personnalisées pour votre famille. Du suivi prénatal aux soins gériatriques, nous vous accompagnons vers le mieux-être.",
+      "subtitle": "Soins préventifs, rendez-vous urgents, suivi des maladies chroniques et soutien pour les patients venant de l'extérieur de l'Ontario et du Canada.",
       "viewAll": "Voir tous les services",
-      "annual": {
-        "title": "Bilans annuels",
-        "desc": "Évaluations de santé complètes, examens physiques et plans d'action personnalisés en fonction de votre âge et de vos antécédents."
+      "urgent": {
+        "title": "Rendez-vous urgents",
+        "desc": "Soins urgents le jour même disponibles sur réservation préalable pour les préoccupations médicales pressantes."
       },
-      "chronic": {
-        "title": "Maladies chroniques",
-        "desc": "Gestion proactive du diabète, de l'hypertension, de l'asthme et du bien-être cardiovasculaire pour une vie quotidienne dynamique."
+      "thirdparty": {
+        "title": "Examens médicaux tiers",
+        "desc": "Évaluations médicales et remplissage de formulaires pour le MTO, Anciens Combattants, pension, invalidité et forces armées."
       },
-      "pediatric": {
-        "title": "Soins pédiatriques",
-        "desc": "Suivi du développement des nourrissons, bilans de croissance, immunisation et consultations pédiatriques personnalisées."
+      "outofprovince": {
+        "title": "Patients hors province",
+        "desc": "Accueil des patients de l'extérieur de l'Ontario et du Canada, y compris les patients RAMQ. Facturation directe UHIP et Guard.me."
       },
-      "mental": {
-        "title": "Santé mentale",
-        "desc": "Soutien empathique, counseling, gestion de l'anxiété et de la dépression, et orientation vers des ressources spécialisées."
-      },
-      "vaccinations": {
-        "title": "Vaccinations",
-        "desc": "Programmes d'immunisation réguliers, vaccins annuels contre la grippe, conseils pour voyages et conformité vaccinale."
+      "followup": {
+        "title": "Soins de suivi",
+        "desc": "Rendez-vous continus pour patients inscrits : gestion des maladies chroniques, révision des médicaments et soins préventifs."
       },
       "preventive": {
-        "title": "Soins préventifs",
-        "desc": "Dépistages précoces, évaluations des risques cardiovasculaires, bilans lipidiques et conseils pour un mode de vie sain."
+        "title": "Santé préventive et de routine",
+        "desc": "Demandes d'analyses, examens de bien-être, dépistages préventifs, dépistage et counseling des ITSS."
+      },
+      "uninsured": {
+        "title": "Services non assurés",
+        "desc": "Tests TB, formulaires de bénévolat, notes médicales, documentation d'assurance. Des frais peuvent s'appliquer."
       }
     },
     "Bio": {
       "badge": "Faites connaissance avec votre médecin",
       "title": "Dévouée à l'excellence en médecine familiale",
-      "p1": "Le Dr. Ata est un médecin de famille certifié comptant plus de 15 ans de pratique clinique, engagé à offrir des soins primaires de classe mondiale aux patients de tous âges et horizons.",
-      "p2": "Le Dr. Ata privilégie une approche globale centrée sur le patient — travaillant en étroite collaboration avec chacun pour offrir une éducation en santé préventive et des soins personnalisés en anglais.",
+      "p1": "La Dr. Ata est une médecin de famille certifiée comptant plus de 15 ans de pratique clinique, engagée à offrir des soins primaires de classe mondiale aux patients de tous âges et horizons.",
+      "p2": "La Dr. Ata privilégie une approche globale centrée sur le patient — travaillant en étroite collaboration avec chacun pour offrir une éducation en santé préventive et des soins personnalisés en anglais.",
       "specialtiesTitle": "Principaux domaines d'expertise :",
       "s1": "Médecine pédiatrique et des nouveau-nés",
       "s2": "Santé des femmes et dépistages préventifs",
@@ -92,7 +92,7 @@
       "title": "Foire aux questions",
       "subtitle": "Trouvez des réponses rapides aux questions courantes concernant les rendez-vous, les horaires, les renouvellements et l'administration.",
       "q1": "Acceptez-vous actuellement de nouveaux patients ?",
-      "a1": "Bien que notre pratique soit presque complète, nous ouvrons un nombre limité de places pour les membres de la famille de nos patients actuels et les références locales. Veuillez accéder au formulaire d'inscription via notre portail de réservation en ligne.",
+      "a1": "Le Dr. Ata n'accepte pas de nouvelles inscriptions de patients en général pour le moment. Seuls les conjoints et les familles de membres des forces armées déployés ou en réinstallation dans la région de la capitale nationale seront acceptés sur référence des Services aux familles des militaires.",
       "q2": "Que dois-je apporter lors de ma première consultation médicale ?",
       "a2": "Veuillez apporter une carte d'assurance-maladie valide (RAMQ ou de l'Ontario), tous vos flacons de médicaments d'ordonnance, les résultats récents de vos analyses de laboratoire et vos formulaires d'inscription dûment remplis.",
       "q3": "Comment puis-je demander le renouvellement d'une ordonnance ?",
@@ -107,13 +107,13 @@
     }
   },
   "About": {
-    "title": "À propos du Dr. Ata",
+    "title": "À propos de la Dr. Ata",
     "subtitle": "Un engagement de toute une vie envers la médecine, l'excellence académique et des soins de santé primaires centrés sur le patient.",
-    "intro": "Le Dr. Ata croit qu'un médecin de famille est plus qu'un simple dispensateur de soins : c'est un guide de confiance, un allié et un partenaire dans l'histoire de santé d'une famille.",
+    "intro": "La Dr. Ata croit qu'un médecin de famille est plus qu'un simple dispensateur de soins : c'est un guide de confiance, un allié et un partenaire dans l'histoire de santé d'une famille.",
     "academic": {
       "title": "Jalons académiques et cliniques",
-      "p1": "Le Dr. Ata a complété sa formation médicale dans une institution canadienne de premier plan, obtenant son doctorat en médecine (MD) avec distinction. Il a ensuite effectué sa résidence spécialisée en médecine familiale, où il a été reconnu pour ses compétences cliniques et son approche centrée sur le patient.",
-      "p2": "Il détient une certification active du Collège des médecins de famille du Canada (CCMF) et a consacré sa carrière aux soins primaires communautaires, à l'enseignement clinique et à la promotion de soins centrés sur le patient."
+      "p1": "La Dr. Ata a complété sa formation médicale dans une institution canadienne de premier plan, obtenant son doctorat en médecine (MD) avec distinction. Elle a ensuite effectué sa résidence spécialisée en médecine familiale, où elle a été reconnue pour ses compétences cliniques et son approche centrée sur le patient.",
+      "p2": "Elle détient une certification active du Collège des médecins de famille du Canada (CCMF) et a consacré sa carrière aux soins primaires communautaires, à l'enseignement clinique et à la promotion de soins centrés sur le patient."
     },
     "philosophy": {
       "title": "Notre philosophie de soins",
@@ -130,37 +130,67 @@
   },
   "ServicesPage": {
     "title": "Nos services cliniques",
-    "subtitle": "Des soins de santé primaires complets et adaptés à chaque étape de la vie. Des normes cliniques modernes alliées à un soutien chaleureux et humain.",
+    "subtitle": "Notre clinique s'engage à offrir des soins attentionnés et fondés sur des données probantes aux personnes et aux familles.",
+    "welcome": "Notre clinique s'engage à offrir des soins attentionnés et fondés sur des données probantes aux personnes et aux familles. Nous offrons des soins préventifs, des rendez-vous urgents, un suivi des maladies chroniques, des évaluations médicales et un soutien aux patients venant de l'extérieur de l'Ontario et du Canada.",
     "cta": "Réserver une consultation",
-    "annual": {
-      "title": "Bilans de santé annuels complets",
-      "desc1": "Nos bilans annuels dépassent les examens physiques standard. Nous effectuons un examen approfondi de votre bien-être cardiovasculaire, métabolique et émotionnel.",
-      "desc2": "Comprend des analyses de sang détaillées, un suivi de la tension artérielle, des dépistages de cancers, des évaluations de santé mentale et des conseils personnalisés sur le mode de vie."
+    "inquireFees": "Veuillez vous renseigner sur les frais et les documents requis.",
+    "urgent": {
+      "title": "Rendez-vous urgents le jour même",
+      "badge": "Soins urgents",
+      "desc": "Nous acceptons des rendez-vous sans rendez-vous sur réservation préalable pour les préoccupations médicales urgentes.",
+      "items": []
     },
-    "chronic": {
-      "title": "Soins des maladies chroniques et métaboliques",
-      "desc1": "Vivre avec le diabète, l'hypertension ou l'hypercholestérolémie exige des soins proactifs, concertés et personnalisés.",
-      "desc2": "Nous travaillons ensemble pour suivre votre hémoglobine glyquée (A1c), optimiser votre médication, surveiller votre santé rénale et élaborer des protocoles nutritionnels."
+    "thirdparty": {
+      "title": "Examens médicaux à des fins d'évaluation tierce",
+      "badge": "Évaluations médicales",
+      "desc": "Nous offrons des évaluations médicales tierces et le remplissage de formulaires, notamment :",
+      "note": "Veuillez vous renseigner sur les frais et les documents requis.",
+      "i1": "Examens médicaux pour conducteurs selon les exigences du ministère des Transports",
+      "i2": "Formulaires médicaux liés à la pension et à l'invalidité",
+      "i3": "Formulaires d'Anciens Combattants Canada (ACC)",
+      "i4": "Formulaires de déclaration des besoins de santé pour les militaires et membres des Forces armées canadiennes",
+      "i5": "Évaluations médicales et documentation requises par des organisations externes"
     },
-    "pediatric": {
-      "title": "Médecine pédiatrique et de l'adolescence",
-      "desc1": "Nous fournissons des soins primaires spécialisés dès la première semaine de vie et tout au long de l'adolescence.",
-      "desc2": "Comprend les examens des nouveau-nés, le suivi des courbes de croissance, l'évaluation des étapes de développement, les vaccinations de routine et les bilans comportementaux."
+    "outofprovince": {
+      "title": "Patients hors province / hors pays",
+      "badge": "Patients en visite",
+      "desc": "Nous accueillons des patients venant de l'extérieur de l'Ontario et du Canada, y compris les patients de la RAMQ (Québec).",
+      "billing": "La facturation directe est disponible pour les régimes admissibles, notamment UHIP et Guard.me."
     },
-    "mental": {
-      "title": "Santé mentale et counseling",
-      "desc1": "La santé mentale est tout aussi essentielle que la santé physique. Nous soutenons nos patients confrontés au stress, à l'épuisement, au deuil, à l'anxiété et à la dépression.",
-      "desc2": "Nous offrons un soutien psychothérapeutique clinique, des révisions de traitement médicamenteux et assurons une coordination efficace avec des spécialistes."
-    },
-    "vaccinations": {
-      "title": "Immunisations et médecine de voyage",
-      "desc1": "La vaccination est la pierre angulaire de la santé publique. Nous protégeons votre famille grâce à des calendriers vaccinaux complets.",
-      "desc2": "Nous offrons les vaccins du calendrier provincial, la vaccination annuelle contre la grippe, les vaccins pour les aînés, et des consultations personnalisées en médecine de voyage."
+    "followup": {
+      "title": "Soins de suivi pour patients inscrits",
+      "badge": "Soins continus",
+      "desc": "Des rendez-vous continus sont disponibles pour les patients inscrits afin de soutenir :",
+      "i1": "La gestion des maladies chroniques",
+      "i2": "La révision des médicaments",
+      "i3": "Les soins préventifs",
+      "i4": "La continuité des soins primaires"
     },
     "preventive": {
-      "title": "Prévention précoce et dépistage des risques",
-      "desc1": "Notre objectif est d'intercepter les maladies avant qu'elles ne se développent, en utilisant des panels de tests cliniques de pointe.",
-      "desc2": "Comprend des plans coordonnés d'épreuves d'effort cardiaque, des dépistages de la densité osseuse, des évaluations de la fonction pulmonaire et des bilans de risques génétiques."
+      "title": "Services de santé préventifs et de routine",
+      "badge": "Soins préventifs",
+      "desc": "Soutenir le bien-être à long terme et la détection précoce grâce à :",
+      "i1": "Demandes d'analyses sanguines et investigations en laboratoire",
+      "i2": "Examens de santé de routine et évaluations du bien-être",
+      "i3": "Dépistage préventif et surveillance",
+      "i4": "Dépistage, tests et counseling des ITSS"
+    },
+    "uninsured": {
+      "title": "Services non assurés",
+      "badge": "Services à frais",
+      "desc": "Certains services ne sont pas couverts par l'assurance-maladie provinciale et peuvent entraîner des frais. Les services comprennent :",
+      "note": "Veuillez vous renseigner sur les frais des services non assurés.",
+      "i1": "Test tuberculinique (une étape et deux étapes)",
+      "i2": "Formulaires de bénévolat",
+      "i3": "Notes médicales scolaires, professionnelles et générales",
+      "i4": "Formulaires d'assurance et documentation connexe"
+    },
+    "military": {
+      "title": "Inscription des familles de militaires",
+      "badge": "Inscription de nouveaux patients",
+      "desc": "Veuillez noter que le Dr. Ata n'accepte pas d'inscriptions générales de nouveaux patients pour le moment.",
+      "detail": "Seuls les conjoints et les familles de militaires déployés ou en réinstallation dans la région de la capitale nationale seront acceptés sur référence des Services aux familles des militaires.",
+      "meetgreet": "Nous offrons des rendez-vous de rencontre pour aider les patients admissibles à se familiariser avec les services de la clinique et à assurer la continuité des soins primaires lors de la réinstallation."
     }
   },
   "Book": {

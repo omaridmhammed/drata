@@ -29,31 +29,31 @@
     },
     "Services": {
       "title": "Comprehensive Primary Care Services",
-      "subtitle": "Tailored healthcare solutions for your family. From prenatal guidance to elder care, we are here to support your wellness journey.",
+      "subtitle": "Preventive care, urgent appointments, chronic disease follow-up, and support for patients visiting from outside Ontario and Canada.",
       "viewAll": "View All Services",
-      "annual": {
-        "title": "Annual Checkups",
-        "desc": "Thorough wellness assessments, physical examinations, and custom health action plans tailored to your age and background."
+      "urgent": {
+        "title": "Urgent Care Appointments",
+        "desc": "Same-day urgent care available through advance booking for pressing medical concerns."
       },
-      "chronic": {
-        "title": "Chronic Disease",
-        "desc": "Proactive management plans for diabetes, hypertension, asthma, and cardiovascular wellness to ensure dynamic daily health."
+      "thirdparty": {
+        "title": "Third-Party Examinations",
+        "desc": "Medical assessments and form completion for MTO, Veterans Affairs, pension, disability, and armed forces."
       },
-      "pediatric": {
-        "title": "Pediatric Care",
-        "desc": "Developmental assessments, newborn checks, vaccinations, and specialized consultations to support your child's healthy growth."
+      "outofprovince": {
+        "title": "Out-of-Province Patients",
+        "desc": "Welcoming patients from outside Ontario and Canada including RAMQ patients. Direct billing for UHIP and Guard.me."
       },
-      "mental": {
-        "title": "Mental Health",
-        "desc": "Empathetic support, counseling, anxiety/depression management, and structured psychiatric resource connections."
-      },
-      "vaccinations": {
-        "title": "Vaccinations",
-        "desc": "Scheduled immunization programs, annual flu shots, travel vaccine counseling, and safety compliance checks."
+      "followup": {
+        "title": "Follow-Up Care",
+        "desc": "Ongoing appointments for rostered patients for chronic disease management, medication review, and preventive care."
       },
       "preventive": {
-        "title": "Preventive Care",
-        "desc": "Early health screenings, cardiovascular risk assessments, lipid profile reviews, and healthy lifestyle consulting."
+        "title": "Preventive & Routine Health",
+        "desc": "Blood test requisitions, wellness exams, preventive screening, STI testing and counselling."
+      },
+      "uninsured": {
+        "title": "Uninsured Services",
+        "desc": "TB testing, volunteer forms, medical notes, insurance documentation. Fees may apply — please inquire."
       }
     },
     "Bio": {
@@ -91,8 +91,8 @@
     "FAQ": {
       "title": "Frequently Asked Questions",
       "subtitle": "Find quick answers to common questions about appointments, clinic hours, prescriptions, and administrative workflows.",
-      "q1": "Are you currently accepting new family medicine patients?",
-      "a1": "While our practice is mostly full, we open a limited number of spots for family members of current patients and local community referrals. Please complete the registration form via our online booking portal.",
+      "q1": "Are you currently accepting new patients?",
+      "a1": "Dr. Ata is not accepting general new patient registrations at this time. Only spouses and families of military members being deployed or relocating to the National Capital Region will be accepted when referred through Military Family Services.",
       "q2": "What should I bring to my first medical consultation?",
       "a2": "Please bring a valid provincial health card (OHIP or RAMQ), all active prescription bottles, copies of recent lab reports, and your completed patient registration package.",
       "q3": "How do I request prescription refills?",
@@ -112,8 +112,8 @@
     "intro": "Dr. Ata believes that a family physician is more than a medical provider; they are a trusted guide, an advocate, and a partner in a family's wellness story.",
     "academic": {
       "title": "Academic & Clinical Milestones",
-      "p1": "Dr. Ata completed his medical training at a leading Canadian institution, earning his Medical Doctorate (MD) with distinction. He completed his residency training specializing in Family Medicine, where he was recognized for his exceptional clinical and patient-centered skills.",
-      "p2": "He holds active certification with the College of Family Physicians of Canada (CCFP) and has devoted his career to community primary care, clinical teaching, and patient-centered medical advocacy."
+      "p1": "Dr. Ata completed her medical training at a leading Canadian institution, earning her Medical Doctorate (MD) with distinction. She completed her residency training specializing in Family Medicine, where she was recognized for her exceptional clinical and patient-centered skills.",
+      "p2": "She holds active certification with the College of Family Physicians of Canada (CCFP) and has devoted her career to community primary care, clinical teaching, and patient-centered medical advocacy."
     },
     "philosophy": {
       "title": "Our Philosophy of Care",
@@ -130,37 +130,67 @@
   },
   "ServicesPage": {
     "title": "Our Clinical Services",
-    "subtitle": "Comprehensive primary care services tailored for every stage of life. Modern clinical standards combined with warm, compassionate support.",
+    "subtitle": "At our clinic, we are committed to delivering compassionate, evidence-based care for individuals and families.",
+    "welcome": "At our clinic, we are committed to delivering compassionate, evidence-based care for individuals and families. Our clinic offers preventive care, urgent appointments, chronic disease follow-up, medical assessments, and support for patients visiting from outside Ontario and Canada.",
     "cta": "Book a Consultation",
-    "annual": {
-      "title": "Annual Comprehensive Checkups",
-      "desc1": "Our annual checkups go beyond standard physicals. We conduct in-depth reviews of your cardiovascular, metabolic, and emotional wellness.",
-      "desc2": "Includes detailed blood chemistry evaluations, blood pressure profiling, cancer screenings (pap tests, mammogram referrals, colon screening), mental health reviews, and custom lifestyle prescriptions."
+    "inquireFees": "Please inquire regarding fees and required documentation.",
+    "urgent": {
+      "title": "Same-Day Urgent Care Appointments",
+      "badge": "Urgent Care",
+      "desc": "We accept walk-in appointments through advance booking for urgent medical concerns.",
+      "items": []
     },
-    "chronic": {
-      "title": "Chronic Disease & Metabolic Care",
-      "desc1": "Living with diabetes, hypertension, or high cholesterol requires collaborative, proactive, and individualized care.",
-      "desc2": "We work together to track your glycated hemoglobin (A1c), optimize drug therapies, monitor renal health, and devise dietary protocols that let you retain control over your health."
+    "thirdparty": {
+      "title": "Third-Party Medical Examinations",
+      "badge": "Medical Assessments",
+      "desc": "We offer third-party medical assessments and completion of forms, including:",
+      "note": "Please inquire regarding fees and required documentation.",
+      "i1": "Driver's Medical Examinations for Ministry of Transportation requirements",
+      "i2": "Pension and disability-related medical forms",
+      "i3": "VAC (Veterans Affairs Canada) forms",
+      "i4": "Statement of Health Needs forms for military and Canadian Armed Forces members",
+      "i5": "Medical assessments and documentation required by external organizations"
     },
-    "pediatric": {
-      "title": "Pediatric & Adolescent Medicine",
-      "desc1": "We provide specialized primary care starting from the very first week of life through adolescence, creating a safe space for your child.",
-      "desc2": "Includes newborn checks, weight and height developmental charting, milestone testing, routine childhood vaccinations, and behavioral assessments."
+    "outofprovince": {
+      "title": "Out-of-Province / Out-of-Country Patients",
+      "badge": "Visiting Patients",
+      "desc": "We welcome appointments for patients visiting from outside Ontario and outside Canada, including RAMQ (Quebec) patients.",
+      "billing": "Direct billing is available where applicable for eligible insurance plans including UHIP and Guard.me."
     },
-    "mental": {
-      "title": "Mental Health & Counseling",
-      "desc1": "Mental health is just as critical as physical health. We support patients dealing with stress, burnout, grief, anxiety, and depression.",
-      "desc2": "We offer supportive clinical psychotherapy, medication reviews, and coordinate seamlessly with cognitive behavioral therapists and psychiatrists."
-    },
-    "vaccinations": {
-      "title": "Immunizations & Travel Medicine",
-      "desc1": "Immunization is the cornerstone of public health. We keep your family safe with complete vaccination schedules.",
-      "desc2": "Offering standard provincial immunizations, annual high-potency flu shots, shingles and pneumonia vaccines for seniors, and customized travel medicine consultations."
+    "followup": {
+      "title": "Follow-Up Care for Rostered Patients",
+      "badge": "Ongoing Care",
+      "desc": "Ongoing appointments are available for rostered patients to support:",
+      "i1": "Chronic disease management",
+      "i2": "Medication review",
+      "i3": "Preventive care",
+      "i4": "Continuity of primary care"
     },
     "preventive": {
-      "title": "Early Prevention & Risk Screening",
-      "desc1": "Our objective is to intercept disease before it has a chance to progress, utilizing advanced clinical testing panels.",
-      "desc2": "Features cardiac stress test coordinate plans, bone density screenings, pulmonary function reviews for smokers, and genetic risk mapping reviews."
+      "title": "Preventive & Routine Health Services",
+      "badge": "Preventive Care",
+      "desc": "Supporting long-term wellness and early detection through:",
+      "i1": "Blood test requisitions and laboratory investigations",
+      "i2": "Routine health examinations and wellness assessments",
+      "i3": "Preventive screening and monitoring",
+      "i4": "STI screening, testing, and counselling"
+    },
+    "uninsured": {
+      "title": "Uninsured Services",
+      "badge": "Fee-Based Services",
+      "desc": "Some services are not covered under provincial health insurance and may involve a fee. Services include:",
+      "note": "Please inquire regarding uninsured service fees.",
+      "i1": "TB testing (one-step and two-step)",
+      "i2": "Volunteer forms",
+      "i3": "School, employment, and general medical notes",
+      "i4": "Insurance forms and related documentation"
+    },
+    "military": {
+      "title": "Military Family Patient Registration",
+      "badge": "New Patient Registration",
+      "desc": "Please note that Dr. Ata is not accepting general new patient registrations at this time.",
+      "detail": "Only spouses and families of military members being deployed or relocating to the National Capital Region will be accepted when referred through Military Family Services.",
+      "meetgreet": "We offer meet-and-greet appointments to help eligible patients become familiar with clinic services and support continuity of primary care during relocation."
     }
   },
   "Book": {
