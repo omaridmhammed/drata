@@ -1,0 +1,226 @@
+{
+  "Navigation": {
+    "home": "Accueil",
+    "about": "À propos du médecin",
+    "services": "Services",
+    "book": "Prendre rendez-vous",
+    "contact": "Contact",
+    "cta": "Prendre RDV",
+    "logo": "Dr. Ata"
+  },
+  "Home": {
+    "Hero": {
+      "badge": "Médecine familiale & Soins préventifs",
+      "title": "Des soins attentionnés pour toute votre famille",
+      "subtitle": "Le Dr. Ata offre des soins de santé complets et personnalisés en anglais. Nous sommes dévoués à préserver et à cultiver la santé de votre famille à chaque étape de la vie.",
+      "ctaBook": "Prendre un rendez-vous",
+      "ctaServices": "Explorer nos services",
+      "rating": "La confiance de plus de 10 000 patients locaux"
+    },
+    "Stats": {
+      "years": "Années d'expérience",
+      "patients": "Patients heureux soignés",
+      "languages": "Langue de service",
+      "satisfaction": "Taux de satisfaction des patients",
+      "yearsVal": "15+",
+      "patientsVal": "10k+",
+      "languagesVal": "Anglais",
+      "satisfactionVal": "99%"
+    },
+    "Services": {
+      "title": "Services de soins primaires complets",
+      "subtitle": "Des solutions de santé personnalisées pour votre famille. Du suivi prénatal aux soins gériatriques, nous vous accompagnons vers le mieux-être.",
+      "viewAll": "Voir tous les services",
+      "annual": {
+        "title": "Bilans annuels",
+        "desc": "Évaluations de santé complètes, examens physiques et plans d'action personnalisés en fonction de votre âge et de vos antécédents."
+      },
+      "chronic": {
+        "title": "Maladies chroniques",
+        "desc": "Gestion proactive du diabète, de l'hypertension, de l'asthme et du bien-être cardiovasculaire pour une vie quotidienne dynamique."
+      },
+      "pediatric": {
+        "title": "Soins pédiatriques",
+        "desc": "Suivi du développement des nourrissons, bilans de croissance, immunisation et consultations pédiatriques personnalisées."
+      },
+      "mental": {
+        "title": "Santé mentale",
+        "desc": "Soutien empathique, counseling, gestion de l'anxiété et de la dépression, et orientation vers des ressources spécialisées."
+      },
+      "vaccinations": {
+        "title": "Vaccinations",
+        "desc": "Programmes d'immunisation réguliers, vaccins annuels contre la grippe, conseils pour voyages et conformité vaccinale."
+      },
+      "preventive": {
+        "title": "Soins préventifs",
+        "desc": "Dépistages précoces, évaluations des risques cardiovasculaires, bilans lipidiques et conseils pour un mode de vie sain."
+      }
+    },
+    "Bio": {
+      "badge": "Faites connaissance avec votre médecin",
+      "title": "Dévouée à l'excellence en médecine familiale",
+      "p1": "Le Dr. Ata est un médecin de famille certifié comptant plus de 15 ans de pratique clinique, engagé à offrir des soins primaires de classe mondiale aux patients de tous âges et horizons.",
+      "p2": "Le Dr. Ata privilégie une approche globale centrée sur le patient — travaillant en étroite collaboration avec chacun pour offrir une éducation en santé préventive et des soins personnalisés en anglais.",
+      "specialtiesTitle": "Principaux domaines d'expertise :",
+      "s1": "Médecine pédiatrique et des nouveau-nés",
+      "s2": "Santé des femmes et dépistages préventifs",
+      "s3": "Soins gériatriques et gestion de la polypharmacie",
+      "s4": "Procédures cliniques mineures",
+      "signature": "Dr. Ata, MD, CCMF",
+      "cta": "Lire la biographie complète"
+    },
+    "Testimonials": {
+      "title": "Ce que disent nos patients",
+      "subtitle": "Témoignages authentiques de guérison, de soutien et d'accompagnement de confiance de la part de familles de notre communauté.",
+      "t1": {
+        "quote": "Le Dr. Ata est notre médecin de famille depuis plus de dix ans. Il est rigoureux et patient. Sa chaleur humaine et son expertise sont incomparables.",
+        "author": "Sarah & Marc L.",
+        "role": "Parents de trois enfants"
+      },
+      "t2": {
+        "quote": "Je me sens toujours écouté lors de mes rendez-vous. Le Dr. Ata ne traite pas seulement les symptômes ; il cherche la cause profonde et m'aide à mener une vie active et saine. La clinique PrimeCare est magnifique et apaisante.",
+        "author": "Jean-Claude M.",
+        "role": "Enseignant retraité"
+      },
+      "t3": {
+        "quote": "Le processus de réservation en ligne est simple et l'équipe est très professionnelle. Le Dr. Ata a détecté tôt un léger problème de thyroïde lors de mon bilan de routine. Je lui suis extrêmement reconnaissant pour ses soins préventifs.",
+        "author": "Elena R.",
+        "role": "Consultante en technologie"
+      }
+    },
+    "FAQ": {
+      "title": "Foire aux questions",
+      "subtitle": "Trouvez des réponses rapides aux questions courantes concernant les rendez-vous, les horaires, les renouvellements et l'administration.",
+      "q1": "Acceptez-vous actuellement de nouveaux patients ?",
+      "a1": "Bien que notre pratique soit presque complète, nous ouvrons un nombre limité de places pour les membres de la famille de nos patients actuels et les références locales. Veuillez accéder au formulaire d'inscription via notre portail de réservation en ligne.",
+      "q2": "Que dois-je apporter lors de ma première consultation médicale ?",
+      "a2": "Veuillez apporter une carte d'assurance-maladie valide (RAMQ ou de l'Ontario), tous vos flacons de médicaments d'ordonnance, les résultats récents de vos analyses de laboratoire et vos formulaires d'inscription dûment remplis.",
+      "q3": "Comment puis-je demander le renouvellement d'une ordonnance ?",
+      "a3": "Demandez à votre pharmacie d'envoyer directement une demande de renouvellement par télécopie à notre clinique. Veuillez prévoir jusqu'à 48 heures ouvrables pour l'examen médical et l'autorisation de signature.",
+      "q4": "Quelle est votre politique d'annulation de rendez-vous ?",
+      "a4": "Nous exigeons un préavis d'au moins 24 heures pour toute annulation ou report. Cela nous permet d'offrir la place libérée à un autre patient qui a besoin de soins urgents."
+    },
+    "CTA": {
+      "title": "Prêt à prioriser le bien-être de votre famille ?",
+      "subtitle": "Planifiez votre consultation en ligne en quelques clics via notre portail de réservation sécurisé. Nous sommes impatients de vous accompagner.",
+      "cta": "Prendre un rendez-vous"
+    }
+  },
+  "About": {
+    "title": "À propos du Dr. Ata",
+    "subtitle": "Un engagement de toute une vie envers la médecine, l'excellence académique et des soins de santé primaires centrés sur le patient.",
+    "intro": "Le Dr. Ata croit qu'un médecin de famille est plus qu'un simple dispensateur de soins : c'est un guide de confiance, un allié et un partenaire dans l'histoire de santé d'une famille.",
+    "academic": {
+      "title": "Jalons académiques et cliniques",
+      "p1": "Le Dr. Ata a complété sa formation médicale dans une institution canadienne de premier plan, obtenant son doctorat en médecine (MD) avec distinction. Il a ensuite effectué sa résidence spécialisée en médecine familiale, où il a été reconnu pour ses compétences cliniques et son approche centrée sur le patient.",
+      "p2": "Il détient une certification active du Collège des médecins de famille du Canada (CCMF) et a consacré sa carrière aux soins primaires communautaires, à l'enseignement clinique et à la promotion de soins centrés sur le patient."
+    },
+    "philosophy": {
+      "title": "Notre philosophie de soins",
+      "p1": "Chaque famille a une dynamique unique, et nous croyons que les soins de santé doivent s'adapter à ces besoins spécifiques. PrimeCare est fondée sur le respect mutuel, une investigation préventive rigoureuse et une pratique clinique basée sur des données probantes.",
+      "p2": "Nous mettons l'accent sur l'équilibre métabolique, l'accompagnement nutritionnel, le dépistage précoce des maladies cardiovasculaires et le développement des enfants pour vous aider à vous épanouir."
+    },
+    "credentials": {
+      "title": "Certifications et associations",
+      "c1": "Collège des médecins de famille du Canada (CCMF)",
+      "c2": "Ordre des médecins et chirurgiens de l'Ontario (CPSO)",
+      "c3": "Collège des médecins du Québec (CMQ)",
+      "c4": "Association médicale canadienne (AMC)"
+    }
+  },
+  "ServicesPage": {
+    "title": "Nos services cliniques",
+    "subtitle": "Des soins de santé primaires complets et adaptés à chaque étape de la vie. Des normes cliniques modernes alliées à un soutien chaleureux et humain.",
+    "cta": "Réserver une consultation",
+    "annual": {
+      "title": "Bilans de santé annuels complets",
+      "desc1": "Nos bilans annuels dépassent les examens physiques standard. Nous effectuons un examen approfondi de votre bien-être cardiovasculaire, métabolique et émotionnel.",
+      "desc2": "Comprend des analyses de sang détaillées, un suivi de la tension artérielle, des dépistages de cancers, des évaluations de santé mentale et des conseils personnalisés sur le mode de vie."
+    },
+    "chronic": {
+      "title": "Soins des maladies chroniques et métaboliques",
+      "desc1": "Vivre avec le diabète, l'hypertension ou l'hypercholestérolémie exige des soins proactifs, concertés et personnalisés.",
+      "desc2": "Nous travaillons ensemble pour suivre votre hémoglobine glyquée (A1c), optimiser votre médication, surveiller votre santé rénale et élaborer des protocoles nutritionnels."
+    },
+    "pediatric": {
+      "title": "Médecine pédiatrique et de l'adolescence",
+      "desc1": "Nous fournissons des soins primaires spécialisés dès la première semaine de vie et tout au long de l'adolescence.",
+      "desc2": "Comprend les examens des nouveau-nés, le suivi des courbes de croissance, l'évaluation des étapes de développement, les vaccinations de routine et les bilans comportementaux."
+    },
+    "mental": {
+      "title": "Santé mentale et counseling",
+      "desc1": "La santé mentale est tout aussi essentielle que la santé physique. Nous soutenons nos patients confrontés au stress, à l'épuisement, au deuil, à l'anxiété et à la dépression.",
+      "desc2": "Nous offrons un soutien psychothérapeutique clinique, des révisions de traitement médicamenteux et assurons une coordination efficace avec des spécialistes."
+    },
+    "vaccinations": {
+      "title": "Immunisations et médecine de voyage",
+      "desc1": "La vaccination est la pierre angulaire de la santé publique. Nous protégeons votre famille grâce à des calendriers vaccinaux complets.",
+      "desc2": "Nous offrons les vaccins du calendrier provincial, la vaccination annuelle contre la grippe, les vaccins pour les aînés, et des consultations personnalisées en médecine de voyage."
+    },
+    "preventive": {
+      "title": "Prévention précoce et dépistage des risques",
+      "desc1": "Notre objectif est d'intercepter les maladies avant qu'elles ne se développent, en utilisant des panels de tests cliniques de pointe.",
+      "desc2": "Comprend des plans coordonnés d'épreuves d'effort cardiaque, des dépistages de la densité osseuse, des évaluations de la fonction pulmonaire et des bilans de risques génétiques."
+    }
+  },
+  "Book": {
+    "title": "Prendre votre rendez-vous",
+    "subtitle": "Planifiez votre visite avec le Dr. Ata rapidement et en toute sécurité via notre portail de réservation en ligne. Des créneaux le jour même et le lendemain sont souvent disponibles.",
+    "portalTitle": "Portail de réservation en ligne",
+    "portalSubtitle": "Cliquez sur le bouton ci-dessous pour accéder à notre système de planification sécurisé. Vous pouvez sélectionner votre type de service, votre date préférée et compléter votre inscription en ligne.",
+    "portalCta": "Ouvrir le portail de réservation",
+    "portalNote": "Vous serez redirigé vers notre plateforme de réservation sécurisée.",
+    "instructions": {
+      "title": "Comment prendre rendez-vous",
+      "step1": "Cliquez sur le bouton de réservation pour accéder à notre portail en ligne sécurisé.",
+      "step2": "Sélectionnez le type de service correspondant à vos besoins (ex. visite de routine, suivi pédiatrique, soins urgents).",
+      "step3": "Choisissez une date et un créneau horaire disponibles sur notre calendrier clinique en temps réel.",
+      "step4": "Complétez vos informations patient et recevez un courriel de confirmation instantané."
+    }
+  },
+  "Contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes situés au centre-ville avec un stationnement pratique et des installations adaptées. Écrivez-nous pour toute question.",
+    "info": {
+      "title": "Coordonnées de contact",
+      "address": "Adresse",
+      "addressVal": "2 Lorry Greenberg Drive, Unité 4, Ottawa, ON K1G 5H6",
+      "phone": "Téléphone",
+      "phoneVal": "Disponible prochainement",
+      "fax": "Télécopieur",
+      "faxVal": "Disponible prochainement",
+      "email": "Courriel",
+      "emailVal": "info@primecareottawa.ca",
+      "hours": "Heures d'ouverture",
+      "h1": "Lundi - Jeudi : 8 h 00 - 17 h 00",
+      "h2": "Vendredi : 8 h 00 - 16 h 00",
+      "h3": "Samedi - Dimanche : Fermé"
+    },
+    "form": {
+      "title": "Envoyez-nous un message sécurisé",
+      "subtitle": "Pour toute urgence médicale, veuillez composer le 911 ou vous rendre immédiatement au service d'urgence le plus proche.",
+      "name": "Nom complet",
+      "email": "Adresse courriel",
+      "phone": "Numéro de téléphone",
+      "subject": "Sujet du message",
+      "message": "Votre message",
+      "submit": "Envoyer le message sécurisé",
+      "sending": "Transmission en cours...",
+      "success": "Votre message sécurisé a été transmis avec succès. Notre équipe administrative vous répondra dans les 24 heures ouvrables.",
+      "error": "Il y a une erreur de validation. Veuillez vérifier que tous les champs sont bien remplis et réessayer."
+    },
+    "map": {
+      "title": "Carte de localisation de la clinique",
+      "directions": "Obtenir l'itinéraire sur Google Maps"
+    }
+  },
+  "Footer": {
+    "clinic": "PrimeCare Médecine Familiale",
+    "copyright": "© {year} PrimeCare Médecine Familiale. Tous droits réservés.",
+    "tagline": "Offrir une médecine de famille de premier ordre avec compassion, excellence académique et un accent sur le bien-être à long terme.",
+    "links": "Liens utiles",
+    "contact": "Nous contacter",
+    "hours": "Heures d'ouverture",
+    "emergencyNotice": "Avis d'urgence : Si vous faites face à une urgence médicale, veuillez vous présenter à l'urgence la plus proche ou composer le 911."
+  }
+}

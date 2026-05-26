@@ -1,0 +1,226 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About the Doctor",
+    "services": "Services",
+    "book": "Book Appointment",
+    "contact": "Contact",
+    "cta": "Book Now",
+    "logo": "Dr. Ata"
+  },
+  "Home": {
+    "Hero": {
+      "badge": "Family Medicine & Preventive Care",
+      "title": "Compassionate Healthcare For Your Whole Family",
+      "subtitle": "Dr. Ata offers comprehensive, personalized primary care in English. We are dedicated to nurturing and protecting your family's health at every stage of life.",
+      "ctaBook": "Book an Appointment",
+      "ctaServices": "Explore Our Services",
+      "rating": "Trusted by 10,000+ local patients"
+    },
+    "Stats": {
+      "years": "Years of Dedication",
+      "patients": "Happy Patients Cared For",
+      "languages": "Language of Service",
+      "satisfaction": "Patient Satisfaction Rate",
+      "yearsVal": "15+",
+      "patientsVal": "10k+",
+      "languagesVal": "English",
+      "satisfactionVal": "99%"
+    },
+    "Services": {
+      "title": "Comprehensive Primary Care Services",
+      "subtitle": "Tailored healthcare solutions for your family. From prenatal guidance to elder care, we are here to support your wellness journey.",
+      "viewAll": "View All Services",
+      "annual": {
+        "title": "Annual Checkups",
+        "desc": "Thorough wellness assessments, physical examinations, and custom health action plans tailored to your age and background."
+      },
+      "chronic": {
+        "title": "Chronic Disease",
+        "desc": "Proactive management plans for diabetes, hypertension, asthma, and cardiovascular wellness to ensure dynamic daily health."
+      },
+      "pediatric": {
+        "title": "Pediatric Care",
+        "desc": "Developmental assessments, newborn checks, vaccinations, and specialized consultations to support your child's healthy growth."
+      },
+      "mental": {
+        "title": "Mental Health",
+        "desc": "Empathetic support, counseling, anxiety/depression management, and structured psychiatric resource connections."
+      },
+      "vaccinations": {
+        "title": "Vaccinations",
+        "desc": "Scheduled immunization programs, annual flu shots, travel vaccine counseling, and safety compliance checks."
+      },
+      "preventive": {
+        "title": "Preventive Care",
+        "desc": "Early health screenings, cardiovascular risk assessments, lipid profile reviews, and healthy lifestyle consulting."
+      }
+    },
+    "Bio": {
+      "badge": "Meet Your Doctor",
+      "title": "Dedicated to Excellence in Family Practice",
+      "p1": "Dr. Ata is a certified family physician with over 15 years of clinical practice, committed to delivering world-class primary care to patients of all ages and backgrounds.",
+      "p2": "Dr. Ata believes in a holistic, patient-centered approach — working collaboratively with each patient to provide preventive health education and personalized medical care in English.",
+      "specialtiesTitle": "Key Areas of Expertise:",
+      "s1": "Newborn & Pediatric Medicine",
+      "s2": "Women's Health & Preventive Screenings",
+      "s3": "Geriatric Care & Polypharmacy Management",
+      "s4": "Minor Clinical Procedures",
+      "signature": "Dr. Ata, MD, CCFP",
+      "cta": "Read Full Biography"
+    },
+    "Testimonials": {
+      "title": "What Our Patients Say",
+      "subtitle": "True stories of healing, support, and trusted companionship from individuals and families in our local community.",
+      "t1": {
+        "quote": "Dr. Ata has been our family doctor for over a decade. He is incredibly thorough and patient. His warmth and expertise are unmatched.",
+        "author": "Sarah & Marc L.",
+        "role": "Parents of Three"
+      },
+      "t2": {
+        "quote": "I always feel heard during my appointments. Dr. Ata doesn't just treat symptoms; he gets to the root cause and helps me maintain an active, healthy life. The PrimeCare clinic is stunning and calm.",
+        "author": "Jean-Claude M.",
+        "role": "Retired Educator"
+      },
+      "t3": {
+        "quote": "The booking process is seamless and the team is highly professional. Dr. Ata caught a minor thyroid issue early during my routine checkup. I am incredibly grateful for his proactive care.",
+        "author": "Elena R.",
+        "role": "Tech Consultant"
+      }
+    },
+    "FAQ": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Find quick answers to common questions about appointments, clinic hours, prescriptions, and administrative workflows.",
+      "q1": "Are you currently accepting new family medicine patients?",
+      "a1": "While our practice is mostly full, we open a limited number of spots for family members of current patients and local community referrals. Please complete the registration form via our online booking portal.",
+      "q2": "What should I bring to my first medical consultation?",
+      "a2": "Please bring a valid provincial health card (OHIP or RAMQ), all active prescription bottles, copies of recent lab reports, and your completed patient registration package.",
+      "q3": "How do I request prescription refills?",
+      "a3": "Have your pharmacy fax a refill request directly to our clinic office. Please allow up to 48 business hours for medical review and signature authorization.",
+      "q4": "What is your clinic's cancellation policy?",
+      "a4": "We require at least 24 hours notice for all cancellations or rescheduling. This allows us to offer the opening to another patient who needs prompt medical attention."
+    },
+    "CTA": {
+      "title": "Ready to Prioritize Your Family's Wellness?",
+      "subtitle": "Schedule your consultation online in under two minutes via our secure booking portal. We look forward to partnering with you on your healthcare path.",
+      "cta": "Book an Appointment"
+    }
+  },
+  "About": {
+    "title": "About Dr. Ata",
+    "subtitle": "A lifelong commitment to medicine, academic excellence, and personalized patient-centered primary care.",
+    "intro": "Dr. Ata believes that a family physician is more than a medical provider; they are a trusted guide, an advocate, and a partner in a family's wellness story.",
+    "academic": {
+      "title": "Academic & Clinical Milestones",
+      "p1": "Dr. Ata completed his medical training at a leading Canadian institution, earning his Medical Doctorate (MD) with distinction. He completed his residency training specializing in Family Medicine, where he was recognized for his exceptional clinical and patient-centered skills.",
+      "p2": "He holds active certification with the College of Family Physicians of Canada (CCFP) and has devoted his career to community primary care, clinical teaching, and patient-centered medical advocacy."
+    },
+    "philosophy": {
+      "title": "Our Philosophy of Care",
+      "p1": "Every family has a unique dynamic, and we believe healthcare should match those specific needs. PrimeCare is built on the foundations of mutual respect, thorough preventive investigation, and evidence-based clinical practice.",
+      "p2": "We focus heavily on metabolic balance, nutritional guidance, early cardiovascular screening, and pediatric developmental assessments to help you thrive, rather than just manage chronic illness."
+    },
+    "credentials": {
+      "title": "Certifications & Memberships",
+      "c1": "College of Family Physicians of Canada (CCFP)",
+      "c2": "College of Physicians and Surgeons of Ontario (CPSO)",
+      "c3": "Collège des médecins du Québec (CMQ)",
+      "c4": "Canadian Medical Association (CMA)"
+    }
+  },
+  "ServicesPage": {
+    "title": "Our Clinical Services",
+    "subtitle": "Comprehensive primary care services tailored for every stage of life. Modern clinical standards combined with warm, compassionate support.",
+    "cta": "Book a Consultation",
+    "annual": {
+      "title": "Annual Comprehensive Checkups",
+      "desc1": "Our annual checkups go beyond standard physicals. We conduct in-depth reviews of your cardiovascular, metabolic, and emotional wellness.",
+      "desc2": "Includes detailed blood chemistry evaluations, blood pressure profiling, cancer screenings (pap tests, mammogram referrals, colon screening), mental health reviews, and custom lifestyle prescriptions."
+    },
+    "chronic": {
+      "title": "Chronic Disease & Metabolic Care",
+      "desc1": "Living with diabetes, hypertension, or high cholesterol requires collaborative, proactive, and individualized care.",
+      "desc2": "We work together to track your glycated hemoglobin (A1c), optimize drug therapies, monitor renal health, and devise dietary protocols that let you retain control over your health."
+    },
+    "pediatric": {
+      "title": "Pediatric & Adolescent Medicine",
+      "desc1": "We provide specialized primary care starting from the very first week of life through adolescence, creating a safe space for your child.",
+      "desc2": "Includes newborn checks, weight and height developmental charting, milestone testing, routine childhood vaccinations, and behavioral assessments."
+    },
+    "mental": {
+      "title": "Mental Health & Counseling",
+      "desc1": "Mental health is just as critical as physical health. We support patients dealing with stress, burnout, grief, anxiety, and depression.",
+      "desc2": "We offer supportive clinical psychotherapy, medication reviews, and coordinate seamlessly with cognitive behavioral therapists and psychiatrists."
+    },
+    "vaccinations": {
+      "title": "Immunizations & Travel Medicine",
+      "desc1": "Immunization is the cornerstone of public health. We keep your family safe with complete vaccination schedules.",
+      "desc2": "Offering standard provincial immunizations, annual high-potency flu shots, shingles and pneumonia vaccines for seniors, and customized travel medicine consultations."
+    },
+    "preventive": {
+      "title": "Early Prevention & Risk Screening",
+      "desc1": "Our objective is to intercept disease before it has a chance to progress, utilizing advanced clinical testing panels.",
+      "desc2": "Features cardiac stress test coordinate plans, bone density screenings, pulmonary function reviews for smokers, and genetic risk mapping reviews."
+    }
+  },
+  "Book": {
+    "title": "Book Your Appointment",
+    "subtitle": "Schedule your visit with Dr. Ata quickly and securely through our online booking portal. Same-day and next-day slots are often available.",
+    "portalTitle": "Online Booking Portal",
+    "portalSubtitle": "Click the button below to access our secure scheduling system. You can select your service type, preferred date, and complete your registration online.",
+    "portalCta": "Open Booking Portal",
+    "portalNote": "You will be redirected to our secure third-party booking platform.",
+    "instructions": {
+      "title": "How to Book Your Appointment",
+      "step1": "Click the booking button to open our secure online scheduling portal.",
+      "step2": "Select the service type matching your needs (e.g., Routine Visit, Pediatric Check, Urgent Care).",
+      "step3": "Pick an available date and time slot from our real-time clinic calendar.",
+      "step4": "Complete your patient details and receive an instant confirmation email."
+    }
+  },
+  "Contact": {
+    "title": "Get in Touch With Us",
+    "subtitle": "We are centrally located with convenient parking and accessibility facilities. Reach out to schedule or ask administrative questions.",
+    "info": {
+      "title": "Contact Details",
+      "address": "Address",
+      "addressVal": "2 Lorry Greenberg Drive, Unit 4, Ottawa, ON K1G 5H6",
+      "phone": "Phone",
+      "phoneVal": "Will be available soon",
+      "fax": "Fax",
+      "faxVal": "Will be available soon",
+      "email": "Email Address",
+      "emailVal": "info@primecareottawa.ca",
+      "hours": "Clinic Hours",
+      "h1": "Monday - Thursday: 8:00 AM - 5:00 PM",
+      "h2": "Friday: 8:00 AM - 4:00 PM",
+      "h3": "Saturday - Sunday: Closed"
+    },
+    "form": {
+      "title": "Send Us a Secure Message",
+      "subtitle": "For medical emergencies, please dial 911 or visit your nearest emergency department immediately.",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Message Subject",
+      "message": "Your Message",
+      "submit": "Submit Secure Message",
+      "sending": "Transmitting message...",
+      "success": "Your secure message has been successfully transmitted. Our administrative team will respond within 24 business hours.",
+      "error": "There was a validation error. Please verify all fields are complete and try again."
+    },
+    "map": {
+      "title": "Clinic Location Map",
+      "directions": "Get Directions on Google Maps"
+    }
+  },
+  "Footer": {
+    "clinic": "PrimeCare Family Medicine",
+    "copyright": "© {year} PrimeCare Family Medicine. All rights reserved.",
+    "tagline": "Providing top-tier family medicine with compassion, academic excellence, and a focus on long-term wellness.",
+    "links": "Clinic Links",
+    "contact": "Contact Details",
+    "hours": "Clinic Hours",
+    "emergencyNotice": "Emergency Notice: If you are experiencing a medical emergency, please proceed to the nearest emergency department or call 911."
+  }
+}
